@@ -3,5 +3,5 @@
 ### 1. Bessel Y Parametric
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182694945-7a0c330c-cb8a-4537-a30a-f099542a3d34.png" width="600" height="400" class="center"></p>
 
-### By Blade.Z Lei
+### By Blade.Z Lei with Original Ideas
 If you like the arts, you can donate or purchase codes for these plots at bladelei@yahoo.com.
