@@ -5,9 +5,10 @@
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182699530-7718ea4f-d8e8-4108-b835-58d9b10fc3cf.png" width="600" height="400" class="center"></p>
 
 ### 2. Bessel-Y Torus
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182704974-3e5ef039-84ac-4002-9725-ab62cc48df6c.png" width="500" height="500" class="center"></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182706061-dd5e68cd-283c-4fd0-bb3b-88663d3cf855.png" height="500" class="center"></p>
 
 
+![image](https://user-images.githubusercontent.com/66701331/182706061-dd5e68cd-283c-4fd0-bb3b-88663d3cf855.png)
 
 
 
