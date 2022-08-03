@@ -1,5 +1,3 @@
-# <p align="center">Mathematical Arts</p><style>
-## Parametric Plots of Real and Imaginary Part of BesselY Function 
-<p align="center">
-<img src= "https://user-images.githubusercontent.com/66701331/182690192-f660b39b-cef0-4803-a0f2-7f2878e67e2c.png" width="600" height="400" class="center">
-</p>
+# <p align="center">Mathematical Arts</p>
+### Parametric Plots of Real and Imaginary Part of BesselY Function 
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182690192-f660b39b-cef0-4803-a0f2-7f2878e67e2c.png" width="600" height="400" class="center"></p>
