@@ -1,1 +1,1 @@
-# <p align="center">Math Gallaries</p>
+# <p align="center">Math Art Gallaries</p>
