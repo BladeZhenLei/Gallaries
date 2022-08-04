@@ -9,7 +9,7 @@
 ### 3. Surface
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182719664-bea80b77-da96-4019-b26a-ec66be48d6b1.png"  width="400" height="500" ></p>
 
-### 3. Butterfly
+### 4. Butterfly
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182757370-05be6869-605d-4240-80cc-f12251d2dc82.png"  width="500" height="400" ></p>
 
 If you like them, you can donate or purchase the codes at bladelei@yahoo.com, thank you for visiting my gallery.
