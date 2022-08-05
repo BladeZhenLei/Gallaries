@@ -9,7 +9,7 @@
 ### 3. Surface (Inspired by Bessel Y function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182719664-bea80b77-da96-4019-b26a-ec66be48d6b1.png"  width="400" height="500" ></p>
 
-### 4. Butterfly (Inspired by Butterfly Curve)
+### 4. Dragonfly (Inspired by Butterfly Curve)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182757370-05be6869-605d-4240-80cc-f12251d2dc82.png"  width="500" height="400" ></p>
 
 If you are interested in them, feel free to contact me at bladelei@yahoo.com, thank you for visiting my gallery.
