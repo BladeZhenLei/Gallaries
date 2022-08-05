@@ -1,4 +1,5 @@
 ## Mathematical Art - Parametric
+All of the below plots are done by Mathematica using ParametricPlot.
 
 ### 1. Twist (Inspired by Bessel Y Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182699530-7718ea4f-d8e8-4108-b835-58d9b10fc3cf.png" width="500" height="400" ></p>
