@@ -1,4 +1,4 @@
-### Mathematical Art - Parametric
+## Mathematical Art - Parametric
 
 ### 1. Twist
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182699530-7718ea4f-d8e8-4108-b835-58d9b10fc3cf.png" width="500" height="400" ></p>
