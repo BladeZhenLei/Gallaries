@@ -2,7 +2,9 @@
 All of the below plots are done by Mathematica using ParametricPlot.
 
 ### 1. Twist (Bessel Y Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182699530-7718ea4f-d8e8-4108-b835-58d9b10fc3cf.png" width="500" height="400" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236753-db570d86-c3eb-43a2-a8e9-915ad897ffe3.png" width="500" height="400" ></p>
+
+
 
 ### 2. Torus (Bessel Y Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236671-80d70994-f625-4b91-a2e6-dffd142ede37.png" width="500" height="500" ></p>
