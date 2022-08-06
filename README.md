@@ -15,6 +15,6 @@ All of the below plots are done by Mathematica using ParametricPlot.
 
 
 ### 4. Dragonfly (Sine and Cosine Functions)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236895-56471ace-20e0-474b-9105-59c129854e4d.png"  width="500" height="400" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236895-56471ace-20e0-474b-9105-59c129854e4d.png"  width="400" height="500" ></p>
 
 If you are interested in them, feel free to contact me at bladelei@yahoo.com, thank you for visiting my gallery.
