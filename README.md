@@ -10,7 +10,7 @@ All of the below plots are done by Mathematica using ParametricPlot.
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236671-80d70994-f625-4b91-a2e6-dffd142ede37.png" width="500" height="500" ></p>
 
 
-### 3. Surface (Bessel Y Function)
+### 3. Insert (Bessel Y Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236813-874f129d-4ab0-474c-86ee-c80502720098.png"  width="500" height="400" ></p>
 
 
