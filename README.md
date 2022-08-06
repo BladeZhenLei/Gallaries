@@ -7,7 +7,7 @@ All of the below plots are done by Mathematica using ParametricPlot.
 
 
 ### 2. Torus (Bessel Y Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236671-80d70994-f625-4b91-a2e6-dffd142ede37.png" width="500" height="500" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236671-80d70994-f625-4b91-a2e6-dffd142ede37.png" width="550" height="560" ></p>
 
 
 ### 3. Inserted (Bessel Y Function)
