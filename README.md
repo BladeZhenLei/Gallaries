@@ -1,7 +1,7 @@
 ## Mathematical Art - Parametric
 All of the below plots are done by Mathematica using ParametricPlot.
 
-### 1. Twist (Bessel Y Function)
+### 1. Twisted (Bessel Y Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236753-db570d86-c3eb-43a2-a8e9-915ad897ffe3.png" width="300" height="500" ></p>
 
 
@@ -11,7 +11,8 @@ All of the below plots are done by Mathematica using ParametricPlot.
 
 
 ### 3. Surface (Bessel Y Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182719664-bea80b77-da96-4019-b26a-ec66be48d6b1.png"  width="400" height="500" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236813-874f129d-4ab0-474c-86ee-c80502720098.png"  width="400" height="500" ></p>
+
 
 ### 4. Dragonfly (Sine and Cosine Functions)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182757370-05be6869-605d-4240-80cc-f12251d2dc82.png"  width="500" height="400" ></p>
