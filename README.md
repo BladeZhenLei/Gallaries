@@ -5,7 +5,7 @@ All of the below plots are done by Mathematica using ParametricPlot.
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182699530-7718ea4f-d8e8-4108-b835-58d9b10fc3cf.png" width="500" height="400" ></p>
 
 ### 2. Torus (Inspired by Bessel Y Function)
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236671-80d70994-f625-4b91-a2e6-dffd142ede37.png" width="400" height="400" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236671-80d70994-f625-4b91-a2e6-dffd142ede37.png" width="500" height="500" ></p>
 
 
 ### 3. Surface (Inspired by Bessel Y Function)
