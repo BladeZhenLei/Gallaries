@@ -1,5 +1,5 @@
 ## Mathematical Art - Parametric
-All of the below plots are done by Mathematica using ParametricPlot.
+All of the below plots are done by Mathematica using ParametricPlot[].
 
 ### 1. Twisted (Bessel Y Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236753-db570d86-c3eb-43a2-a8e9-915ad897ffe3.png" width="350" height="500" ></p>
