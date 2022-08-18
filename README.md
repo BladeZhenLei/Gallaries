@@ -17,5 +17,5 @@ All of the below plots are done by Mathematica using ParametricPlot[].
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183557885-9bb87d0c-eac9-4642-86ad-69cc3cf2dd09.png"  width="500" height="475" ></p>
 
 <p/>
-$Thank you for visiting my gallery!$
+Thank you!
 <p/>
