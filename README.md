@@ -1,3 +1,4 @@
+***
 ### About
 Parametric equations are used to draw curve and surfaces, here we show some interesting 2D equations that give stunning 3D effects.
 
