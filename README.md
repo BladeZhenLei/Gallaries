@@ -1,3 +1,6 @@
+### About
+Parametric equations are used to draw curve and surfaces, here we show some interesting 2D equations that give stunning 3D effects.
+
 ### 1. Twist (Bessel Y Function)
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183236753-db570d86-c3eb-43a2-a8e9-915ad897ffe3.png" width="350" height="500" ></p>
 
